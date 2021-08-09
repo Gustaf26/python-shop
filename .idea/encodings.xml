@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="das://7c7bda91-a12d-4ba0-b06f-ad39f34810b4.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/7c7bda91-a12d-4ba0-b06f-ad39f34810b4/console.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/migrations/0001_initial.py" charset="UTF-8" />
+  </component>
+</project>
